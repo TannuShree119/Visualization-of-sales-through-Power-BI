@@ -26,3 +26,6 @@ The third slide on this project acts  as a drillthrough page which can be used t
 A sales project is incomplete without an in-depth look into the customer base of a company so this slides provides us with different charts and visualizations which helps execs understand the economic as well as occupational status of our customers and helps determine the high-value customers of a company
 
 ![AW4](https://github.com/TannuShree119/Visualization-of-sales-through-Power-BI/assets/159888826/2a381203-66a1-4038-b426-9aaf7a35c334)
+
+
+
