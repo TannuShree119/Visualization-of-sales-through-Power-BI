@@ -6,19 +6,27 @@ Hello and welcome to my repository. In this instance, I have visualized sales da
 
 The first slide of this project shows us some of the over-all important values inclusing total revenue, profit, orders, etc. This page also features some KPI Cards to show the current month statistics. Equipped with a line chart and top 'n' productsm this page gives us a sneak peek into how the company did throughout. To top it all off, the eye-catching colours and scheme make it faster to grasp
 
+![AW1](https://github.com/TannuShree119/Visualization-of-sales-through-Power-BI/assets/159888826/8a224c69-ff64-480e-8fd0-326f9071ee19)
+
+
 # Map
 
 The second slife of this project features a map which shows us the worldwide sales of products, symbolized by bubbles, which when hovered open gives us the amount of sales. You can also choose different options given on the upper section of the slide to focus on a certain area.
+
+![AW2](https://github.com/TannuShree119/Visualization-of-sales-through-Power-BI/assets/159888826/84e74159-409d-41d8-bdca-bd028cf52ceb)
 
 
 # Product Detail
 
 The third slide on this project acts  as a drillthrough page which can be used to drillthrough a product (for eg. from the Top 10 Products list oin the Exec Dashboard slide) to get more details from. It gives us different visualizations like monthly orders, revenue and profit. To make things more experimental a numeric range parameter to forecast what the line chart would look like with changed prices. 
 
+![Slide 3](https://github.com/TannuShree119/Visualization-of-sales-through-Power-BI/assets/159888826/30fcf973-dde0-4a9d-b403-9ca7b13bc186)
+
+
 # Customer Detail
 
 A sales project is incomplete without an in-depth look into the customer base of a company so this slides provides us with different charts and visualizations which helps execs understand the economic as well as occupational status of our customers and helps determine the high-value customers of a company
 
-
+![AW4](https://github.com/TannuShree119/Visualization-of-sales-through-Power-BI/assets/159888826/a2430c98-2620-4ad3-9739-0a0a8b078b6a)
 
 
